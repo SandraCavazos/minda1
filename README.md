@@ -14,3 +14,5 @@ Repositorio para Minería de Datos
 ## Fase 2
 
 - [Presentación Técnicas de Minería de Datos](https://github.com/AlbertoEli/UANL_Mineria_de_Datos/blob/main/Presentacion_SeriesdeTiempo_4.pdf)
+- [Preguntas de Series de Tiempo](https://github.com/AlbertoEli/UANL_Mineria_de_Datos/blob/main/Preguntas_SeriesdeTiempo_4.pdf)
+
