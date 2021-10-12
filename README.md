@@ -18,3 +18,4 @@ Repositorio para Minería de Datos
 - [Práctica II: Visualización de Datos](https://github.com/AlbertoEli/UANL_Mineria_de_Datos/blob/main/Visualizacion_Equipo4.ipynb)
 - [Segundo Avance PIA](https://github.com/AlbertoEli/UANL_Mineria_de_Datos/blob/main/AvancePIA_II_Grupo01_Equipo4_.ipynb)
 - [Ejercicio de Técnicas de Minería](https://github.com/AlbertoEli/UANL_Mineria_de_Datos/blob/main/Tecnicas_Equipo4.ipynb)
+- [Segundo Avance PIA (corregido)](https://github.com/AlbertoEli/UANL_Mineria_de_Datos/blob/main/AvancePIA_II_Grupo01_Equipo4_Corregido.ipynb)
