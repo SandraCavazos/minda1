@@ -23,3 +23,4 @@ Repositorio para Minería de Datos
 
 - [Ejercicio de Técnicas de Minería](https://github.com/AlbertoEli/UANL_Mineria_de_Datos/blob/main/Tecnicas_Equipo4.ipynb)
 - [Notebook Final](https://github.com/AlbertoEli/UANL_Mineria_de_Datos/blob/main/Notebookfinal_Equipo4.ipynb)
+- [PIA-póster](https://github.com/DianaVG/Mineria_Datos/blob/main/Mineri%CC%81a%20de%20datos_PIA_Equipo4.pdf)
